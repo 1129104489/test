@@ -3,5 +3,8 @@
     "description": "快速接人支付接口",
     "require": {
         "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {"test\\": "src/"}
     }
 }

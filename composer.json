@@ -1,5 +1,5 @@
 {
-    "name": "payment/variety-pay",
+    "name": "pay/variety-pay",
     "description": "快速接人支付接口",
     "require": {
         "php": "^7.0"

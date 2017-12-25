@@ -1,4 +1,7 @@
 <?php
     phpinfo();
-    echo 1 ;
+
+    echo "brench 3.3";
+
+    exit;
 ?>
